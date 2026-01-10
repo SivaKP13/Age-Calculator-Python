@@ -2,4 +2,4 @@ These are my first coding projects in which I have explored the use of variables
 
 To challenge myself, I replicated my code and changed it to work in Java, which I found much harder since it included brackets and classes. I must admit that I had to use AI to learn new concepts from Java that I wasn't familiar with, but the concept and idea of this code was entirely from me. With a few more Java projects, I hope to understand why and how to use classes and brackets in Java.
 
-To use my code, just copy the code from the python or java version of the Age Calculator and plug it in Dcoder or other websites/apps you may have in mind. After that, follow the instructions my code generates for you and you will have the age of any person in any given month as long as you know the birth year and birth month of the person.
+To use my code, just copy the code from the Python or Java version of the Age Calculator and plug it in Dcoder or other websites/apps you may have in mind. After that, follow the instructions my code generates for you and you will have the age of any person in any given month as long as you know the birth year and birth month of that person.
