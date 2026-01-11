@@ -16,7 +16,7 @@ Scanner(System.in);
     if (decisionM.equalsIgnoreCase("Y")){
       System.out.print("Great! What is the month of birth? (Please enter a number, Jan. is 1 and Dec. is 12): ");
       int birthMonth = input.nextInt();
-      System.out.print("Alright, what month is it? (Please enter a number, Jan. is 1 and Dec. is 12): ");
+      System.out.print("Alright, what month is it as of today? (Please enter a number, Jan. is 1 and Dec. is 12): ");
       int monthN = input.nextInt();
       if (monthN == birthMonth){
         System.out.println("This individual is turning " + currentAge + " this month! Wish him/her a great birthday!");
