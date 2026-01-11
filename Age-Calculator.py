@@ -6,7 +6,7 @@ print("This year, this person will turn " + Age + ".")
 Decision = str(raw_input("Would you like to know how many months will pass until or have passed since this person's birthday? (Y/N): "))
 if Decision == "Y" or Decision == "y":
   BirthMonth = int(input("Great! What is the month of birth? (Please enter a number, Jan. is 1 and Dec. is 12): "))
-  MonthN = int(input("Alright, what month is it? (Please enter a number, Jan. is 1 and Dec. is 12): "))
+  MonthN = int(input("Alright, what month is it as of today? (Please enter a number, Jan. is 1 and Dec. is 12): "))
   if MonthN == BirthMonth:
     print("This individual is turning " + Age + " this month! Wish him/her a great birthday!")
   elif MonthN <= BirthMonth:
